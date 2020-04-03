@@ -10,3 +10,6 @@ Du kan også klikke dig ind mappen for øvelsen og vælge .pde dokumentet for at
 Et tegneprogram med tastaturgenveje
 ## KK_01_tegneprogram_VJ
 Tilføjer Syphon/Spout output til tegneprogrammet
+## KK_02_pattern
+En mønstergenerator der forklarer translate/rotate og
+for loops.
