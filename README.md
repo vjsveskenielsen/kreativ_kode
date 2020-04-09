@@ -13,3 +13,8 @@ Tilføjer Syphon/Spout output til tegneprogrammet
 ## KK_02_pattern
 En mønstergenerator der forklarer translate/rotate og
 for loops.
+## KK_02_pattern_VJ
+Tilføjer PGraphics metode så man kan lave grafik i højere opløsning, uden at gøre vinduet større.
+
+## basic_VJ
+Et eksempel på strukturen i en app for VJ's
