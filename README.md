@@ -15,6 +15,8 @@ En mønstergenerator der forklarer translate/rotate og
 for loops.
 ## KK_02_pattern_VJ
 Tilføjer PGraphics metode så man kan lave grafik i højere opløsning, uden at gøre vinduet større.
+## KK_03_parametric_equations
+Lav flotte mønstre med udgangspunkt i matematiske ligninger
 
 ## basic_VJ
 Et eksempel på strukturen i en app for VJ's
